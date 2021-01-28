@@ -1,6 +1,6 @@
 {
   "name": "csf-input-demo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "3"
-  }
+  },
+  "gitHead": "f6b8af2084d033ad76ec7ac997a29e2eef469f3f"
 }
