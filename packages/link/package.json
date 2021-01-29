@@ -1,18 +1,15 @@
 {
-  "name": "csf-input-demo",
-  "version": "0.0.4",
-  "description": "",
+  "name": "csf-link-demo",
+  "version":  "0.0.1",
+  "description": "scf-link-demo component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "del": "rimraf dist"
   },
-  "keywords": [],
   "author": "",
   "license": "MIT",
-  "dependencies": {
-    "lodash": "3"
-  },
-  "gitHead": "a34c940ff4df3d9851decad784c32f98c0e5a392"
+  "dependencies": {},
+  "keywords": []
 }
